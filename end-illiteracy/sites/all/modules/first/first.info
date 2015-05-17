@@ -1,0 +1,5 @@
+name = First module
+description = A first module.
+package = Kun Drupal Development
+core = 7.x
+files[] = first.module
